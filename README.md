@@ -3,6 +3,8 @@ A collection of Personas
 
 We do really need to have a few we can pull from in a standardized, easy to modify format.
 
+Useful to have a limited (3-5) number so that teams can get to know and empathize with the users. You don't want to have a different Persona for every type of disability. You want your team to be able to get to know them.  
+
 ## Links
 
 ### Examples
@@ -24,4 +26,3 @@ We do really need to have a few we can pull from in a standardized, easy to modi
 - http://www.fakepersongenerator.com/Random/generate_address
 - http://random-name-generator.info/random/
 - http://www.fakeaddressgenerator.com/World/ca_address_generator
-
