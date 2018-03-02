@@ -19,6 +19,7 @@ Useful to have a limited (3-5) number so that teams can get to know and empathiz
 - https://webdesign.tutsplus.com/articles/making-the-web-accessible-for-everyone-with-inclusive-design-and-diverse-personas--cms-27505
 - https://www.deque.com/blog/current-design-trends-affect-web-accessibility/
 - https://digitalservices.georgia.gov/blog/2018-03-01/addressing-agency-needs-personas
+- https://medium.com/@indiyoung/describing-personas-af992e3fc527
 - https://abookapart.com/products/design-for-real-life [Book]
 
 ### Randomizers
@@ -27,3 +28,6 @@ Useful to have a limited (3-5) number so that teams can get to know and empathiz
 - http://www.fakepersongenerator.com/Random/generate_address
 - http://random-name-generator.info/random/
 - http://www.fakeaddressgenerator.com/World/ca_address_generator
+
+## Thanks
+- Jennifer Sutton https://twitter.com/jsutt
