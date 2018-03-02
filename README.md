@@ -18,6 +18,7 @@ Useful to have a limited (3-5) number so that teams can get to know and empathiz
 - https://fedspendingtransparency.github.io/user-centered-design/
 - https://webdesign.tutsplus.com/articles/making-the-web-accessible-for-everyone-with-inclusive-design-and-diverse-personas--cms-27505
 - https://www.deque.com/blog/current-design-trends-affect-web-accessibility/
+- https://digitalservices.georgia.gov/blog/2018-03-01/addressing-agency-needs-personas
 - https://abookapart.com/products/design-for-real-life [Book]
 
 ### Randomizers
