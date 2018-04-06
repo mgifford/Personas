@@ -12,6 +12,7 @@ Useful to have a limited (3-5) number so that teams can get to know and empathiz
 - http://rosenfeldmedia.com/a-web-for-everyone/personas-for-accessible-ux/
 - http://www.uiaccess.com/accessucd/personas_eg.html
 - https://the-pastry-box-project.net/anne-gibson/2014-july-31
+- https://wiki.fluidproject.org/display/fluid/Personas
 
 ### Documentation
 - https://methods.18f.gov/decide/personas/
