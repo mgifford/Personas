@@ -16,11 +16,12 @@ Useful to have a limited (3-5) number so that teams can get to know and empathiz
 - https://wiki.fluidproject.org/display/fluid/Fluid+Personas
 
 ### Documentation
-- https://methods.18f.gov/decide/personas/
 - https://fedspendingtransparency.github.io/user-centered-design/
 - https://webdesign.tutsplus.com/articles/making-the-web-accessible-for-everyone-with-inclusive-design-and-diverse-personas--cms-27505
 - https://www.deque.com/blog/current-design-trends-affect-web-accessibility/
+- https://methods.18f.gov/decide/personas/
 - https://digitalservices.georgia.gov/blog/2018-03-01/addressing-agency-needs-personas
+- https://www.gov.uk/government/publications/understanding-disabilities-and-impairments-user-profiles
 - https://medium.com/@indiyoung/describing-personas-af992e3fc527
 - https://abookapart.com/products/design-for-real-life [Book]
 
