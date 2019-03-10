@@ -32,5 +32,8 @@ Useful to have a limited (3-5) number so that teams can get to know and empathiz
 - http://random-name-generator.info/random/
 - http://www.fakeaddressgenerator.com/World/ca_address_generator
 
+### Challenge ###
+You should have less than 10 Personas. There is no reason not to give **every one at least one barrier** as defined from the grid provided in [Microsoft's  Persona Spectrum](https://medium.com/microsoft-design/kill-your-personas-1c332d4908cc). There are 12 broad categories to choose from if you look at a grid of permanent, temporary or situational disability covering touch, sight, hearing, and verbal. If you add to that people who have challenges with reliable access to the internet (cheap high speed isn't universal) you add another type of barrier to consider. Finally, how many people don't have a close friend, family member or co-worker in their network who does. This is also a piece that can be incorporated into building empathy. 
+
 ## Thanks
 - Jennifer Sutton https://twitter.com/jsutt
