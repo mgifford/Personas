@@ -1,5 +1,8 @@
 # Personas
-A collection of Personas
+
+Personas are an imaginary but reliable and realistic representations of your key audience. These should reflect what your user research and web analytics tells you about your audience. 
+
+This is a collection of personas to help get inspiration. A personas is only as good as the research behind it.
 
 We do really need to have a few we can pull from in a standardized, easy to modify format.
 
@@ -29,9 +32,11 @@ Useful to have a limited (3-5) number so that teams can get to know and empathiz
 ### Randomizers
 - https://randomuser.me/
 - https://www.fakenamegenerator.com/gen-male-us-ca.php
-- http://www.fakepersongenerator.com/Random/generate_address
-- http://random-name-generator.info/random/
-- http://www.fakeaddressgenerator.com/World/ca_address_generator
+- https://www.fakepersongenerator.com/Random/generate_address
+- https://www.fakepersongenerator.com/user-face-generator
+- https://thispersondoesnotexist.com/
+- https://random-name-generator.info/random/
+- https://www.fakeaddressgenerator.com/World/ca_address_generator
 
 ### Challenge ###
 You should have less than 10 Personas. There is no reason not to give **every one at least one barrier** as defined from the grid provided in [Microsoft's  Persona Spectrum](https://medium.com/microsoft-design/kill-your-personas-1c332d4908cc). There are 12 broad categories to choose from if you look at a grid of permanent, temporary or situational disability covering touch, sight, hearing, and verbal. If you add to that people who have challenges with reliable access to the internet (cheap high speed isn't universal) you add another type of barrier to consider. Finally, how many people don't have a close friend, family member or co-worker in their network who does. This is also a piece that can be incorporated into building empathy. 
