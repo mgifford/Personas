@@ -11,7 +11,7 @@ Useful to have a limited (3-5) number so that teams can get to know and empathiz
 ## Links
 
 ### Examples
-- https://www.w3.org/WAI/redesign/personas
+- https://www.w3.org/WAI/redesign/personas (https://github.com/w3c/wai-website-personas)
 - http://rosenfeldmedia.com/a-web-for-everyone/personas-for-accessible-ux/
 - http://www.uiaccess.com/accessucd/personas_eg.html
 - https://the-pastry-box-project.net/anne-gibson/2014-july-31
