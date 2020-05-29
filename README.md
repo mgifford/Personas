@@ -17,7 +17,7 @@ Useful to have a limited (3-5) number so that teams can get to know and empathiz
 - https://the-pastry-box-project.net/anne-gibson/2014-july-31
 - https://wiki.fluidproject.org/display/fluid/Personas
 - https://wiki.fluidproject.org/display/fluid/Fluid+Personas
-- https://alphagov.github.io/accessibility-personas/
+- https://alphagov.github.io/accessibility-personas/ (https://github.com/alphagov/accessibility-personas)
 
 ### Documentation
 - https://fedspendingtransparency.github.io/user-centered-design/
