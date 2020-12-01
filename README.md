@@ -29,6 +29,7 @@ Useful to have a limited (3-5) number so that teams can get to know and empathiz
 - https://www.gov.uk/government/publications/understanding-disabilities-and-impairments-user-profiles
 - https://medium.com/@indiyoung/describing-personas-af992e3fc527
 - https://abookapart.com/products/design-for-real-life [Book]
+- https://medium.com/inclusive-software/describing-personas-af992e3fc527
 
 ### Randomizers
 - https://randomuser.me/
