@@ -37,7 +37,7 @@ Useful to have a limited (3-5) number so that teams can get to know and empathiz
 - https://www.fakepersongenerator.com/Random/generate_address
 - https://www.fakepersongenerator.com/user-face-generator
 - https://thispersondoesnotexist.com/
-- https://random-name-generator.info/random/
+- http://random-name-generator.info/
 - https://www.fakeaddressgenerator.com/World/ca_address_generator
 
 ### Challenge ###
