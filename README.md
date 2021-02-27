@@ -32,16 +32,19 @@ Useful to have a limited (3-5) number so that teams can get to know and empathiz
 - https://medium.com/inclusive-software/describing-personas-af992e3fc527
 
 ### Randomizers
-- https://randomuser.me/
-- https://www.fakenamegenerator.com/gen-male-us-ca.php
-- https://www.fakepersongenerator.com/Random/generate_address
-- https://www.fakepersongenerator.com/user-face-generator
-- https://thispersondoesnotexist.com/
-- http://random-name-generator.info/
-- https://www.fakeaddressgenerator.com/World/ca_address_generator
+- [random user](https://randomuser.me/)
+- [Fake person generator: Identity](https://www.fakenamegenerator.com/gen-male-us-ca.php)
+- [Fake person generator: Address](https://www.fakepersongenerator.com/Random/generate_address)
+- [Fake person generator: User Face Generator](https://www.fakepersongenerator.com/user-face-generator)
+- [thispersondoesnotexist](https://thispersondoesnotexist.com/)
+- [Random Name Generator](http://random-name-generator.info/)
+- [Fake address generator](https://www.fakeaddressgenerator.com/World/ca_address_generator)
+- [Random Lego Pictures](http://www.baseplate.com/toys/minifig/)
+- [Random Character Generator](https://www.character-generator.org.uk/personality/)
+- [Random Robot](https://robohash.org/) - Love that these are Creative Commons
 
 ### Challenge ###
 You should have less than 10 personas. There is no reason not to give **everyone at least one barrier** as defined from the grid provided in [Microsoft's  Persona Spectrum](https://medium.com/microsoft-design/kill-your-personas-1c332d4908cc). There are 12 broad categories to choose from if you look at a grid of permanent, temporary or situational disability covering touch, sight, hearing, and verbal. If you add to that people who have challenges with reliable access to the internet (cheap high speed isn't universal) you add another type of barrier to consider. Finally, how many people don't have a close friend, family member or co-worker in their network who does. This is also a piece that can be incorporated into building empathy. 
 
 ## Thanks
-- Jennifer Sutton https://twitter.com/jsutt
+- Jennifer Sutton
