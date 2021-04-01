@@ -47,6 +47,7 @@ Useful to have a limited (3-5) number so that teams can get to know and empathiz
 - [Unisex names](https://mommyhood101.com/unisex-baby-names)
 - [Gender neutral language](https://en.wikipedia.org/wiki/Gender-neutral_language)
 - [Gender inclusive language guide](https://writingcenter.unc.edu/tips-and-tools/gender-inclusive-language/)
+- [Singular They](https://apastyle.apa.org/blog/singular-they)
 - [Retextjs equality](https://github.com/retextjs/retext-equality)
 
 ### Challenge ###
