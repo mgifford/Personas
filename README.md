@@ -27,6 +27,7 @@ Useful to have a limited (3-5) number so that teams can get to know and empathiz
 - https://www.usability.gov/how-to-and-tools/methods/personas.html
 - https://digitalservices.georgia.gov/blog/2018-03-01/addressing-agency-needs-personas
 - https://www.gov.uk/government/publications/understanding-disabilities-and-impairments-user-profiles
+- https://a11y.canada.ca/en/guides/personas/#breaking-down-barriers
 - https://medium.com/@indiyoung/describing-personas-af992e3fc527
 - https://abookapart.com/products/design-for-real-life [Book]
 - https://medium.com/inclusive-software/describing-personas-af992e3fc527
