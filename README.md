@@ -18,6 +18,10 @@ Useful to have a limited (3-5) number so that teams can get to know and empathiz
 - https://wiki.fluidproject.org/display/fluid/Personas
 - https://wiki.fluidproject.org/display/fluid/Fluid+Personas
 - https://alphagov.github.io/accessibility-personas/ (https://github.com/alphagov/accessibility-personas)
+- https://www.lexdis.org.uk/2022/03/personas/
+    - https://www.lexdis.org.uk/2022/03/personas-eum-a-would-be-computer-scientist-who-needs-magnification/
+    - https://www.lexdis.org.uk/2022/03/personas-amber-activist-for-inclusive-education/
+    - https://www.lexdis.org.uk/2022/03/personas-carlos-as-the-first-in-a-series-to-help-with-online-accessibility/
 
 ### Documentation
 - https://fedspendingtransparency.github.io/user-centered-design/
@@ -31,6 +35,7 @@ Useful to have a limited (3-5) number so that teams can get to know and empathiz
 - https://medium.com/@indiyoung/describing-personas-af992e3fc527
 - https://abookapart.com/products/design-for-real-life [Book]
 - https://medium.com/inclusive-software/describing-personas-af992e3fc527
+- https://www.nngroup.com/articles/personas-jobs-be-done/
 
 ### Randomizers
 - [random user](https://randomuser.me/)
