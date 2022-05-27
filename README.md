@@ -17,6 +17,7 @@ Useful to have a limited (3-5) number so that teams can get to know and empathiz
 - https://the-pastry-box-project.net/anne-gibson/2014-july-31
 - https://wiki.fluidproject.org/display/fluid/Personas
 - https://wiki.fluidproject.org/display/fluid/Fluid+Personas
+- https://bepeoplesmart.co.uk/home/tools-resources/personas/
 - https://alphagov.github.io/accessibility-personas/ (https://github.com/alphagov/accessibility-personas)
 - https://www.lexdis.org.uk/2022/03/personas/
     - https://www.lexdis.org.uk/2022/03/personas-eum-a-would-be-computer-scientist-who-needs-magnification/
