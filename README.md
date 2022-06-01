@@ -37,6 +37,7 @@ Useful to have a limited (3-5) number so that teams can get to know and empathiz
 - https://abookapart.com/products/design-for-real-life [Book]
 - https://medium.com/inclusive-software/describing-personas-af992e3fc527
 - https://www.nngroup.com/articles/personas-jobs-be-done/
+- https://www.uxbooth.com/articles/rethinking-user-personas/
 
 ### Randomizers
 - [random user](https://randomuser.me/)
